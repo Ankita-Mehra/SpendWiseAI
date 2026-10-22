@@ -1,0 +1,15 @@
+/build
+# Firebase config (contains your project's API key and IDs)
+google-services.json
+app/google-services.json
+
+# Keys and local config
+local.properties
+*.jks
+*.keystore
+*.pem
+
+# Build output
+/build
+/app/build
+.gradle/

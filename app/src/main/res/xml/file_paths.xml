@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Camera photos are saved to cache/images/ and shared through FileProvider -->
+    <cache-path name="images" path="images/" />
+</paths>
