@@ -3,10 +3,9 @@
 An AI-powered Android app that turns receipt photos into organised expenses.(Kotlin, Jetpack Compose, Firebase AI Logic, Gemini, ML Kit)
 It uses on-device OCR (ML Kit) and Gemini (through Firebase AI Logic), with a UI built in Jetpack Compose.
 
-
-<img width="512" height="512" alt="Logo" src="https://github.com/user-attachments/assets/9b88df96-8cb3-4b6c-b917-68c261347913" />
-<img width="575" height="1280" alt="ReceiptScreen" src="https://github.com/user-attachments/assets/7b31778d-3698-4f20-8504-32f985efa530" />
 <img width="575" height="1280" alt="HomeScreen" src="https://github.com/user-attachments/assets/fd709b58-c36a-432d-8f1e-4512815782bb" />
+
+<img width="575" height="1280" alt="ReceiptScreen" src="https://github.com/user-attachments/assets/7b31778d-3698-4f20-8504-32f985efa530" />
 
 
 
